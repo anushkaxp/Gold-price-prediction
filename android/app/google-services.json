@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "30089546324",
+    "project_id": "goldn-3d432",
+    "storage_bucket": "goldn-3d432.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30089546324:android:3c2164f4be071c506f3bc1",
+        "android_client_info": {
+          "package_name": "com.example.gold_n"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30089546324-6fbl9cqn5s5k9sdaa1r3tn6k4prmks2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABeUoCZB4rG6WaqkTLhe-Zwm56y6HOiJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30089546324-6fbl9cqn5s5k9sdaa1r3tn6k4prmks2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
